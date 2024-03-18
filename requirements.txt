@@ -3,3 +3,6 @@ openai
 llama-index
 nltk
 llama-index-vector-stores-chroma
+install
+torch
+sentence-transformers
